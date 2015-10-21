@@ -1,0 +1,66 @@
+.button{
+  color: #F31515;
+}
+.btn{
+  position: relative;
+  top:50%;
+
+
+}
+.yup{
+  background-image: url("http://hdw.datawallpaper.com/nature/hammock-in-the-south-pacific-isls-desktop-background-577295.jpg");
+  background-size:cover;
+}
+.nop{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/1d/Confetti_in_Toronto.jpg");
+  background-size:cover
+}
+.container {
+  position: relative;
+  top: 50%;
+  text-transform: translateY(-50%);
+  text-align: center;
+}
+.intro {
+  text-align: center;
+}
+.form-control { 
+  width: 100000000px; height: 50px;
+}
+.layout {
+    background-image: url("http://static1.squarespace.com/static/547f29bfe4b0dc192ed7bdac/54aeb15ce4b018c14f34c7cb/54aeb160e4b018c14f34c7ed/1420734817363/san-franc.jpg?format=2500w");
+}
+.ayoForYayo{
+    text-align: center;
+    font-size: x-large;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    color: black;
+
+}
+/*.yea{
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: white;
+  font-style: initial;
+}*/
+
+#yesjumbo {
+  /*background-image: url("http://crusy.org/wp-content/uploads/2013/05/Confetti.jpg");*/
+  background: transparent;
+  color:white;
+}
+
+#layoutjumbo {
+  margin-bottom: 0px;
+  height: 350px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  background:transparent;
+
+}
+#nojumbo {
+   background: transparent; 
+   color:black;
+}
+.gif{
+  text-align: center;
+}
